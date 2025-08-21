@@ -9,5 +9,5 @@ export default function Capa() {
             <button>Saiba Mais</button>
         </div>
         </section>
-    );
+    )
 }
